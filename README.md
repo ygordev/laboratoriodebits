@@ -1,5 +1,5 @@
 # Laboratório de Bits
-Códigos-fonte postados no Instagram @laboratoriodebits
+Códigos-fonte postados no Instagram [@laboratoriodebits](https://instagram.com/laboratoriodebits)
 
 - [C: Distância Euclidiana](https://github.com/ygordev/laboratoriodebits/blob/main/distanciaEuclidiana.c)
 - [Python: Manipulação de Datas](https://github.com/ygordev/laboratoriodebits/blob/main/datas.py)
